@@ -1,0 +1,13 @@
+C:\Users\markus.simonsen\git\skola-webshop-c-sharp\webshop\webshop\bin\Debug\netcoreapp3.1\webshop.exe
+C:\Users\markus.simonsen\git\skola-webshop-c-sharp\webshop\webshop\bin\Debug\netcoreapp3.1\webshop.deps.json
+C:\Users\markus.simonsen\git\skola-webshop-c-sharp\webshop\webshop\bin\Debug\netcoreapp3.1\webshop.runtimeconfig.json
+C:\Users\markus.simonsen\git\skola-webshop-c-sharp\webshop\webshop\bin\Debug\netcoreapp3.1\webshop.runtimeconfig.dev.json
+C:\Users\markus.simonsen\git\skola-webshop-c-sharp\webshop\webshop\bin\Debug\netcoreapp3.1\webshop.dll
+C:\Users\markus.simonsen\git\skola-webshop-c-sharp\webshop\webshop\bin\Debug\netcoreapp3.1\webshop.pdb
+C:\Users\markus.simonsen\git\skola-webshop-c-sharp\webshop\webshop\obj\Debug\netcoreapp3.1\webshop.csprojAssemblyReference.cache
+C:\Users\markus.simonsen\git\skola-webshop-c-sharp\webshop\webshop\obj\Debug\netcoreapp3.1\webshop.AssemblyInfoInputs.cache
+C:\Users\markus.simonsen\git\skola-webshop-c-sharp\webshop\webshop\obj\Debug\netcoreapp3.1\webshop.AssemblyInfo.cs
+C:\Users\markus.simonsen\git\skola-webshop-c-sharp\webshop\webshop\obj\Debug\netcoreapp3.1\webshop.csproj.CoreCompileInputs.cache
+C:\Users\markus.simonsen\git\skola-webshop-c-sharp\webshop\webshop\obj\Debug\netcoreapp3.1\webshop.dll
+C:\Users\markus.simonsen\git\skola-webshop-c-sharp\webshop\webshop\obj\Debug\netcoreapp3.1\webshop.pdb
+C:\Users\markus.simonsen\git\skola-webshop-c-sharp\webshop\webshop\obj\Debug\netcoreapp3.1\webshop.genruntimeconfig.cache
