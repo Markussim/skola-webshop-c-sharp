@@ -38,7 +38,6 @@ namespace webshop
                             {
                                 Console.WriteLine("Added product");
                                 firstCustomer.addProduct(new product(productName));
-                                Console.WriteLine("Added product");
                                 break;
                             }
                             

@@ -7,7 +7,7 @@ namespace webshop
     class product
     {
 
-        private string _name;
+        public string _name;
 
         public string getName()
         {
@@ -16,10 +16,16 @@ namespace webshop
 
         public product(string name)
         {
-            if(creatProductList().Contains(name))
+            constructor(name);
+        }
+
+        public void constructor(string name)
+        {
+            if (creatProductList().Contains(name))
             {
                 _name = name;
-            } else
+            }
+            else
             {
                 throw new System.ArgumentException("That product does not exist", "original");
             }
